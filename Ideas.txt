@@ -1,0 +1,10 @@
+- Looks like the majority of these issues are with the filesystem, we can write the program in terms of
+  downloaded files (apt only)?
+
+- Have the programming running when you download stuff, then you can check that way
+
+-Pytest is used to ensure that the files were installed correctly, we can locate them, and that certain ones are
+ properly sought out and removed and flagged
+
+
+-1st detect when a new file is run on your computer, get a state of the filesystem
