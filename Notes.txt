@@ -12,7 +12,7 @@ explainlikeimfive/comments/1ttool/eli5_what_exactly_is_a_computer_virus_and_why_
 -Consider Inodes, store everything except name and its actually data
  -ext has a fixed number of inodes, small # of files with nothing
  - look at what's inside an inode specifically
- - user/group id, file type, permissions, date and time, indoe mtime, hard links, file size
+ - user/group id, file type, permissions, date and time, inode mtime, hard links, file size
  - 12 direct pointers to data blocks
  - li, inode #
  - consider fragmentation
